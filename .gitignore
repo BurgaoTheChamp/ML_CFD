@@ -163,3 +163,5 @@ Cylinder500
 CylinderOriginal
 ReCalc.exe
 dependencies
+TestResnet.ipynb
+saved_models
